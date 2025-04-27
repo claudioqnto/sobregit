@@ -273,3 +273,6 @@ Bash
 ``` $ git stash apply stash@{<número>}```
 O número do stash pode ser encontrado com git stash list.
 
+## 17 - Documentação
+[Git Documentation](https://git-scm.com/doc)
+
